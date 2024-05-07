@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_wj3yj65nlj5wjjw3kolikmm0.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard1_0684daf7-e7d9-4224-9724-07271a45c73a_80x80.png?v=1698315950",
+        "title": "Airdopes 71",
+        "price": "₹ 999",
+        "regular_price": "₹ 3,990",
+        "discount": "75% off"
+    },
+    {
+        "id": 2,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_iopw61jyiqp2ur4lkmb8v99z.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard8_80x80.png?v=1704949292",
+        "title": "Airdopes 161 Pro",
+        "price": "₹ 1,099",
+        "regular_price": "₹ 4,490",
+        "discount": "76% off"
+    },
+    {
+        "id": 3,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_zntjxmugklrk3vhl1fjxqr5g.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/NION-ANC-FI_Black01_80x80.png?v=1702893834",
+        "title": "Nirvana Ion ANC",
+        "price": "₹ 2,799",
+        "regular_price": "₹ 9,990",
+        "discount": "72% off"
+    },
+    {
+        "id": 4,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_krc7ksul4krxdnfhyr2cwhld.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz245V2Pro_Black_80x80.png?v=1693369391",
+        "title": "Rockerz 245 V2 Pro",
+        "price": "₹ 999",
+        "regular_price": "₹ 3,490",
+        "discount": "71% off"
+    },
+    {
+        "id": 5,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_rc2jan2cq4z130ey73re7bau.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/viper-green_80x80.png?v=1642405569",
+        "title": "Airdopes 131",
+        "price": "₹ 899",
+        "regular_price": "₹ 2,990",
+        "discount": "70% off"
+    },
+    {
+        "id": 6,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_n8398cnfdzlxagw1ywk4qsxr.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/2_257ea3cf-47d8-47db-97dc-8878c43d0c25_80x80.png?v=1668424790",
+        "title": "Airdopes 131",
+        "price": "₹ 899",
+        "regular_price": "₹ 2,990",
+        "discount": "70% off"
+    },
+    {
+        "id": 7,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_j88xq8kqgwevksxkcw33z5ub.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/WaveSigma-FI_Biege01_80x80.png?v=1692856673",
+        "title": "Wave Sigma",
+        "price": "₹ 1,699",
+        "regular_price": "₹ 7,499",
+        "discount": "77% off"
+    },
+    {
+        "id": 8,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_qmg4zde9msqpdgmksx9bcuch.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/WaveGenesisPro-FI_Orange01_fa9e528c-84c9-4a86-a0ed-6e31aba5364b_80x80.png?v=1697097677",
+        "title": "Wave Glory Pro",
+        "price": "₹ 3,499",
+        "regular_price": "₹ 11,999",
+        "discount": "71% off"
+    },
+    {
+        "id": 9,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_z6nhddzgf86uzhxkok0qvq1k.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LunarVista-FI_Blue01_d1654b35-483e-433b-969a-bfb1f677fa64_80x80.png?v=1696594161",
+        "title": "Primia Clestial",
+        "price": "₹ 1,999",
+        "regular_price": "₹ 7,999",
+        "discount": "75% off"
+    },
+    {
+        "id": 10,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_f9xuvwl63uaogbcy4zkahqdf.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD170-FI-01_0e1d9b4a-4bf9-4b7a-bc32-df6d88a5f45e_80x80.png?v=1713263494",
+        "title": "Airdopes 131",
+        "price": "₹ 899",
+        "regular_price": "₹ 2,990",
+        "discount": "70% off"
+    },
+    {
+        "id": 11,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_lvu6ae6f7yt6q8c7jgkkuyoe.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/k1_80x80.png?v=1701419329",
+        "title": "Airdopes 170",
+        "price": "₹ 1,499",
+        "regular_price": "₹ 3,490",
+        "discount": "57% off"
+    },
+    {
+        "id": 12,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_x8k70iqkj4n2pjptbrns2072.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard_1__3_-removebg-preview_80x80.png?v=1686628064",
+        "title": "Katana Blade",
+        "price": "₹ 2,299",
+        "regular_price": "₹ 3,999",
+        "discount": "43% off"
+    },
+    {
+        "id": 13,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_xpg45x3tsvrtg8ucgujmpt3o.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/74a6b20d-9842-49da-b279-022812b81e1f_80x80.png?v=1673001663",
+        "title": "Airdopes Alpha",
+        "price": "₹ 1099",
+        "regular_price": "₹ 3,490",
+        "discount": "69% off"
+    },
+    {
+        "id": 14,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_nllcbnridpzc4qyllsmm6qsu.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ActiveBlack_80x80.png?v=1689928715",
+        "title": "Stone 350",
+        "price": "₹ 1,299",
+        "regular_price": "₹ 3,490",
+        "discount": "63% off"
+    },
+    {
+        "id": 15,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_grosd0onc5sj8dwr9clf352w.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Black_c43bb5d4-3205-4718-8312-5a772fc9bc3b_80x80.png?v=1693980604",
+        "title": "Storm Call 2",
+        "price": "₹ 1,799",
+        "regular_price": "₹ 6,999",
+        "discount": "74% off"
+    },
+    {
+        "id": 16,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_aap097hd678vxyi81kgcyl4q.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Mainimage_86d113ab-e793-4b6b-9de8-0b82d4f83a8e_80x80.png?v=1694000204",
+        "title": "Wave Elevate",
+        "price": "₹ 2,299",
+        "regular_price": "₹ 6,499",
+        "discount": "65% off"
+    },
+    {
+        "id": 17,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_qbaz22gv3riavxumqmzbk3mv.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/LunarVista-FI_Blue01_d1654b35-483e-433b-969a-bfb1f677fa64_80x80.png?v=1696594161",
+        "title": "Stone Ignite",
+        "price": "₹ 8,999",
+        "regular_price": "₹ 21,990",
+        "discount": "59% off"
+    },
+    {
+        "id": 18,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_p68ihzmv7x6zd56cexzqa16a.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard1_6ea60a6e-41dd-4fd6-9efc-fac2130f4f28_80x80.png?v=1695621035",
+        "title": "AD 161 Hulk Edition",
+        "price": "₹ 999",
+        "regular_price": "₹ 2,490",
+        "discount": "60% off"
+    },
+    {
+        "id": 19,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_kxv0olj4qs7zwakvjf2howem.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Artboard1_c495926e-76e1-487c-a24c-351f484efd76_80x80.png?v=1695621155",
+        "title": "AD 161 Thor Edition",
+        "price": "₹ 999",
+        "regular_price": "₹ 2,490",
+        "discount": "60% off"
+    },
+    {
+        "id": 20,
+        "vid": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_oegv9y5uxixy96p8fma3ancg.mp4",
+        "img": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/SC2_WC2_Astra_SilverMetalMesh__2___1_-removebg-preview_80x80.png?v=1691488076",
+        "title": "Wave Astra",
+        "price": "₹ 1,999",
+        "regular_price": "₹ 6,999",
+        "discount": "71% off"
+    }
+]

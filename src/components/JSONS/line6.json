@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "cap_1": "nil",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Ultra_Plus.jpg?v=1710852690",
+        "cap_2": "50 Hours Playback",
+        "title": "Airdopes Ultra Plus",
+        "price": "₹1,799",
+        "Regular price": "₹4,990",
+        "off": "64% off",
+        "stars": "Be first to review",
+        "reviews": "nil"
+    },
+    {
+        "id": 2,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Supreme_1.jpg?v=1711262453",
+        "cap_2": "50 Hours Playback",
+        "title": "Airdopes Supreme",
+        "price": "₹1,499",
+        "Regular price": "₹5,990",
+        "off": "75% off",
+        "stars": "4.9",
+        "reviews": 14
+    },
+    {
+        "id": 3,
+        "cap_1": "nil",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Airdopes-115_1.jpg?v=1686139410",
+        "cap_2": "The Clear Calling",
+        "title": "Airdopes 115",
+        "price": "₹999",
+        "Regular price": "₹2,990",
+        "off": "67% off",
+        "stars": "4.9",
+        "reviews": 105
+    },
+    {
+        "id": 4,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_91.jpg?v=1706776330",
+        "cap_2": "45 Hours Playback",
+        "title": "Airdopes 91",
+        "price": "₹1,199",
+        "Regular price": "₹3,990",
+        "off": "70% off",
+        "stars": "4.9",
+        "reviews": 17
+    }
+]

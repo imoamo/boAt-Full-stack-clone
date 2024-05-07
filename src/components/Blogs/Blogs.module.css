@@ -1,0 +1,97 @@
+@font-face {
+    font-family: myFont;
+    src: url('../../fonts/bad.otf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: myFont;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.heading {
+    font-size: 2.7rem;
+    font-weight: 500;
+    width: 95%;
+    margin: auto;
+    margin-top: 4rem;
+    font-weight: bolder;
+}
+
+.heading span {
+    border-bottom: 2.5px solid rgb(216, 51, 51);
+}
+
+.blogs {
+    width: 95%;
+    margin: auto;
+    margin-top: 2rem;
+    column-gap: 1.5rem;
+}
+
+.child_1 {
+    border: 1px solid #B2B9BF;
+    border-radius: 7px;
+}
+
+.child_1 img {
+    width: 100%;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.text {
+    width: 90%;
+    margin: auto;
+    margin-top: 1.5rem;
+}
+
+.text_1 {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #868C91;
+}
+
+.text_2 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    margin-top: .7rem;
+    line-height: 2.2rem;
+}
+
+.text_3 {
+    font-size: 1.35rem;
+    font-weight: 400;
+    margin-top: .7rem;
+    color: #4E5358;
+    line-height: 2rem;
+}
+
+.text_4 {
+    width: 90%;
+    margin: auto;
+    margin-top: 1.6rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.text_4 button {
+    padding-left: 8rem;
+    padding-right: 8rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-radius: 15px;
+    font-size: 1.2rem;
+}
+
+.mult_div button {
+    font-weight: 400;
+    padding: 1.5rem 2rem 1.5rem 2rem;
+    background-color: #ECF0F4;
+    border-radius: 15px;
+}

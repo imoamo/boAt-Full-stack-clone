@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/products/qc-pd_main_mu_300x.png?v=1627301901",
+        "cap_2": "18W Fast Charger",
+        "title": "Dual QC-PD Port..",
+        "price": "₹599",
+        "Regular price": "₹1,499",
+        "off": "60% off",
+        "stars": "4.8",
+        "reviews": 6
+    },
+    {
+        "id": 2,
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/products/6875f924-20d3-4cb6-933d-5319504c7baa_300x.png?v=1625046269",
+        "cap_2": "Quick Charge 3.0",
+        "title": "3A Qualcomm 3.0..",
+        "price": "₹499",
+        "Regular price": "₹999",
+        "off": "50% off",
+        "stars": "4.9",
+        "reviews": 13
+    },
+    {
+        "id": 3,
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/products/11_300x.png?v=1662706696",
+        "cap_2": "nil",
+        "title": "Dual Rapid-Qc 3.0..",
+        "price": "₹499",
+        "Regular price": "₹990",
+        "off": "50% off",
+        "stars": "5.0",
+        "reviews": 3
+    },
+    {
+        "id": 4,
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/products/qc-pd_main_pd_300x.png?v=1627302177",
+        "cap_2": "18W Fast Charger",
+        "title": "Dual QC-PD Port..",
+        "price": "₹699",
+        "Regular price": "₹1,499",
+        "off": "53% off",
+        "stars": "5.0",
+        "reviews": 5
+    }
+]

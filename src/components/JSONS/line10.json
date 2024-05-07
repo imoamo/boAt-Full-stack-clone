@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB_Orion_Plus.jpg?v=1714468423",
+        "cap_2": "160W RMS Sound",
+        "title": "Aavante Bar Orion Plus",
+        "price": "₹8,499",
+        "Regular price": "₹21,990",
+        "off": "61% off",
+        "stars": "Be first to review"
+    },
+    {
+        "id": 2,
+        "cap_1": "",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/11_300x.png?v=1662706696",
+        "cap_2": "",
+        "title": "Dual Rapid-Qc 3.0 Car",
+        "price": "₹499",
+        "Regular price": "₹999",
+        "off": "50% off",
+        "stars": "5.0",
+        "reviews": 3
+    },
+    {
+        "id": 3,
+        "cap_1": "",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Style_Call.jpg?v=1702361107",
+        "cap_2": "The BT Calling",
+        "title": "Wave Style Call",
+        "price": "₹1,999",
+        "Regular price": "₹7,990",
+        "off": "75% off",
+        "stars": "4.8",
+        "reviews": 12
+    },
+    {
+        "id": 4,
+        "cap_1": "✍️ Engraving Available",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
+        "cap_2": "60 Hours Playback",
+        "title": "Airdopes 131",
+        "price": "₹899",
+        "Regular price": "₹2,990",
+        "off": "70% off",
+        "stars": "4.8",
+        "reviews": 1359
+    }
+]

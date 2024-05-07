@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB_Orion_Plus.jpg?v=1714468423",
+        "cap_2": "160W RMS Sound",
+        "title": "Aavante Bar Orion Plus",
+        "price": "₹8,499",
+        "Regular price": "₹21,990",
+        "off": "61% off",
+        "stars": "Be first to review"
+    },
+    {
+        "id": 2,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ION_ANC_Limited_Edition.jpg?v=1714034655",
+        "cap_2": "Noise Cancellation",
+        "title": "Nirvana ION ANC Limited",
+        "price": "₹3,499",
+        "Regular price": "₹11,990",
+        "off": "71% off",
+        "stars": "4.7",
+        "reviews": 10
+    },
+    {
+        "id": 3,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stone_Majestic.jpg?v=1714033662",
+        "cap_2": "6 Hours Playback",
+        "title": "Stone Majestic",
+        "price": "₹9,999",
+        "Regular price": "₹21,990",
+        "off": "55% off",
+        "stars": "Be first to review"
+    },
+    {
+        "id": 4,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AB_A1040.jpg?v=1714121962",
+        "cap_2": "2.1 Channel Soundbar",
+        "title": "Aavante Bar A1040",
+        "price": "₹3,999",
+        "Regular price": "₹9,999",
+        "off": "60% off",
+        "stars": "Be first to review"
+    }
+]

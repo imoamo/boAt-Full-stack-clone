@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_Supreme_1.jpg?v=1711262453",
+        "cap_2": "50 Hours Playback",
+        "title": "Airdopes Supreme",
+        "price": "₹1,499",
+        "Regular price": "₹5,000",
+        "off": "75% off",
+        "stars": "4.9",
+        "reviews": 14
+    },
+    {
+        "id": 2,
+        "cap_1": "🎉 New Launch",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Storm_Call_3.jpg?v=1712640243",
+        "cap_2": "The BT Calling",
+        "title": "Storm Call 3",
+        "price": "₹1,499",
+        "Regular price": "₹8,499",
+        "off": "82% off",
+        "stars": "4.8",
+        "reviews": 8
+    },
+    {
+        "id": 3,
+        "cap_1": "✍️ Engraving Available",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.jpg?v=1686297917",
+        "cap_2": "40 Hours Playback",
+        "title": "Airdopes 161",
+        "price": "₹999",
+        "Regular price": "₹2,490",
+        "off": "60% off",
+        "stars": "4.9",
+        "reviews": 172
+    },
+    {
+        "id": 4,
+        "cap_1": "₹200 OFF ON BIG200",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Storm_Call_2.webp?v=1698984630",
+        "cap_2": "The BT Calling",
+        "title": "Storm Call 2",
+        "price": "₹1,799",
+        "Regular price": "₹6,999",
+        "off": "74% off",
+        "stars": "4.8",
+        "reviews": 21
+    }
+]

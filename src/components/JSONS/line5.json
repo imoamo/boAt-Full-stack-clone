@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/stark.jpg?v=1684480562",
+        "cap_2": "Wireless Subwoofer",
+        "title": "Aavante Bar Stark",
+        "price": "₹9,499",
+        "Regular price": "₹21,990",
+        "off": "57% off",
+        "stars": "Be first to review"
+    },
+    {
+        "id": 2,
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ab-theme.jpg?v=1684224858",
+        "cap_2": "Wireless Subwoofer",
+        "title": "Aavante Bar Theme",
+        "price": "₹10,999",
+        "Regular price": "₹21,990",
+        "off": "50% off",
+        "stars": "5.0",
+        "reviews": 4
+    },
+    {
+        "id": 3,
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Aavante_Bar_Rhythm.jpg?v=1704213747",
+        "cap_2": "60W Rms Sound",
+        "title": "Aavante Bar Rhythm",
+        "price": "₹4,999",
+        "Regular price": "₹7,990",
+        "off": "37% off",
+        "stars": "4.8",
+        "reviews": 8
+    },
+    {
+        "id": 4,
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/files/Artboard1_dc9a0a17-3bbb-4b40-b20c-0daa1b6da32d_300x.png?v=1707729608",
+        "cap_2": "Dolby Digital sound",
+        "title": "Aavante Bar 3100D",
+        "price": "₹14,999",
+        "Regular price": "₹24,990",
+        "off": "40% off",
+        "stars": "4.8",
+        "reviews": 17
+    }
+]

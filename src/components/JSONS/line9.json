@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "cap_1": "✍️ Engraving Available",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Nirvana_Ion.jpg?v=1697621745",
+        "cap_2": "120 Hours Playback",
+        "title": "Nirvana Ion",
+        "price": "₹2,299",
+        "Regular price": "₹7,990",
+        "off": "71% off",
+        "stars": "5.0",
+        "reviews": 77
+    },
+    {
+        "id": 2,
+        "cap_1": "✍️ Engraving Available",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/131_f04f74fd-45d4-4614-85cf-6ccf69c4cf90.jpg?v=1691395049",
+        "cap_2": "60 Hours Playback",
+        "title": "Airdopes 131",
+        "price": "₹899",
+        "Regular price": "₹2,990",
+        "off": "70% off",
+        "stars": "4.8",
+        "reviews": 1359
+    },
+    {
+        "id": 3,
+        "cap_1": "✍️ Engraving Available",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_131_e7e95f2c-0bb3-492e-89df-613a2cfb792f.jpg?v=1686297917",
+        "cap_2": "45 Hours Playback",
+        "title": "Airdopes 131 PRO",
+        "price": "₹999",
+        "Regular price": "₹2,990",
+        "off": "67% off",
+        "stars": "4.9",
+        "reviews": 191
+    },
+    {
+        "id": 4,
+        "cap_1": "✍️ Engraving Available",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/AD_161.jpg?v=1686297917",
+        "cap_2": "40 Hours Playback",
+        "title": "Airdopes 161",
+        "price": "₹999",
+        "Regular price": "₹2,490",
+        "off": "60% off",
+        "stars": "4.9",
+        "reviews": 172
+    }
+]

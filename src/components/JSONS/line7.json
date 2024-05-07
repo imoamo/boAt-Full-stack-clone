@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "cap_1": "₹300 OFF ON BIG300",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Call__1.jpg?v=1689751649",
+        "cap_2": "The BT Calling",
+        "title": "Wave Call",
+        "price": "₹1,699",
+        "Regular price": "₹7,990",
+        "off": "79% off",
+        "stars": "4.9",
+        "reviews": 50
+    },
+    {
+        "id": 2,
+        "cap_1": "nil",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Stormcall_1.webp?v=1709108774",
+        "cap_2": "The BT Calling",
+        "title": "Storm Call",
+        "price": "₹1,499",
+        "Regular price": "₹7,990",
+        "off": "81% off",
+        "stars": "4.7",
+        "reviews": 30
+    },
+    {
+        "id": 3,
+        "cap_1": "nil",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Lunar_connect_1.webp?v=1709108774",
+        "cap_2": "The BT Calling",
+        "title": "Lunar Connect",
+        "price": "₹1,599",
+        "Regular price": "₹7,990",
+        "off": "80% off",
+        "stars": "4.9",
+        "reviews": 15
+    },
+    {
+        "id": 4,
+        "cap_1": "nil",
+        "poster": "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Wave_Style_Call.jpg?v=1702361107",
+        "cap_2": "The BT Calling",
+        "title": "Wave Style Call",
+        "price": "₹1,999",
+        "Regular price": "₹7,990",
+        "off": "75% off",
+        "stars": "4.8",
+        "reviews": 12
+    }
+]

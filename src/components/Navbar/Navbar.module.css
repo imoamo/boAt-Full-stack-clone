@@ -1,0 +1,308 @@
+@font-face {
+    font-family: myFont;
+    src: url('../../fonts/bad.otf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: myFont;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.Main {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 1000;
+    border-bottom: 1px solid #DBDBDB;
+}
+
+.first_box {
+    text-align: center;
+    background-color: rgb(239, 244, 247);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.font {
+    font-size: 1.1rem;
+    letter-spacing: .5px;
+    font-weight: 500;
+}
+
+
+.navbar {
+    padding-top: 2.2rem;
+    padding-bottom: 2.2rem;
+}
+
+
+.main {
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.img_1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -1rem;
+}
+
+.Link_1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 55%;
+    font-size: 1.6rem;
+    letter-spacing: .1rem;
+}
+
+.Link_1 a {
+    position: relative;
+    text-decoration: none;
+    color: #000;
+    padding: 1rem;
+}
+
+.Link_1 a:hover {
+    font-weight: bolder;
+}
+
+.Link_1 section:hover {
+    font-weight: bolder;
+}
+
+.Link_1 a::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    transition: width 0.3s ease-in-out, left 0.3s ease-in-out;
+}
+
+.Link_1 a:hover::after {
+    width: 30%;
+    left: 35%;
+    background-color: #c74338;
+}
+
+
+.img_1 img {
+    width: 60%;
+}
+
+.SP_Flex {
+    justify-content: center;
+    align-items: center;
+}
+
+.icon_1 {
+    font-size: 1rem;
+    margin-left: .5rem;
+    margin-top: .1rem;
+}
+
+.Link_2 {
+    display: flex;
+    margin-left: 5rem;
+    width: 25%;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.search input {
+    width: 27rem;
+    border-radius: 25px;
+    background-color: rgb(244, 245, 247);
+    padding-top: 1.8rem;
+    padding-bottom: 1.8rem;
+    font-size: 1.5rem;
+}
+
+.logo_2 {
+    font-size: 1.5rem;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.logo_3 {
+    font-size: 2rem;
+    cursor: pointer;
+    margin-left: .5rem;
+}
+
+/* Dropdowns */
+.parent_chevron_1 {
+    padding: 1rem;
+}
+
+.chevron {
+    background-color: white;
+    position: absolute;
+    padding: 5rem;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5rem;
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+    right: 15rem;
+    box-shadow: -5px 5px 7px rgba(0, 0, 0, 0.1), 5px 5px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    display: none;
+    z-index: 5;
+}
+
+.parent_chevron_2 {
+    padding: 1rem;
+}
+
+
+.chevron_2 {
+    background-color: white;
+    position: absolute;
+    padding: 1rem;
+    width: 20rem;
+    margin: auto;
+    margin-top: 1rem;
+    right: -8rem;
+    box-shadow: -5px 5px 7px rgba(0, 0, 0, 0.1), 5px 5px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    display: none;
+    z-index: 5;
+}
+
+.chevron div {
+    display: flex;
+    align-items: center;
+}
+
+.chevron div img {
+    width: 40%;
+}
+
+.child {
+    position: relative;
+    cursor: pointer;
+    padding: 1rem;
+}
+
+.child:hover .overlay {
+    background-color: rgba(169, 169, 169, 0.5);
+    /* Adjust the opacity as needed */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    /* Initially hide the overlay */
+    transition: opacity 0.1s ease;
+    /* Add a transition effect */
+}
+
+.child:hover .overlay {
+    opacity: .5;
+    /* Show the overlay when hovering */
+}
+
+.Image,
+.Text {
+    position: relative;
+    z-index: 1;
+    /* Ensure the image and text are above the overlay */
+}
+
+.child p {
+    font-size: 1.1rem;
+    margin-left: .8rem;
+
+}
+
+.child_2 {
+    margin-top: 1rem;
+}
+
+.child_2 p {
+    font-size: 1.4rem;
+    font-weight: lighter;
+    margin-bottom: .7rem;
+    margin-left: 2rem;
+}
+
+.chevron_2 p:hover {
+    color: rgb(197, 199, 200);
+}
+
+.parent_chevron_1:hover .chevron {
+    display: grid;
+}
+
+.parent_chevron_2:hover .chevron_2 {
+    display: block;
+}
+
+
+.search {
+    position: relative;
+}
+
+.chevron_3 {
+    background-color: white;
+    position: absolute;
+    padding: 1rem;
+    width: 30rem;
+    margin: auto;
+    margin-top: 0rem;
+    right: 0rem;
+    box-shadow: -5px 5px 7px rgba(0, 0, 0, 0.1), 5px 5px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 7px;
+    display: none;
+    z-index: 5;
+}
+
+.chevron_3 p {
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.search_drop {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 1rem;
+}
+
+.child_3 {
+    display: flex;
+    align-items: center;
+}
+
+.child_3 p {
+    font-size: 1.1rem;
+    font-weight: lighter;
+    margin-top: 2rem;
+}
+
+.child_3 img {
+    width: 33%;
+}
+
+.search:hover .chevron_3 {
+    display: grid;
+}

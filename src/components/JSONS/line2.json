@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "cap_1": "Smartwatches",
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_N8V0FmOXVCG4QfYvPSp1w.jpg",
+        "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_RUxbhR7CvjkNtlFUDxgw9.mp4"
+    },
+    {
+        "id": 2,
+        "cap_1": "Wireless Earbuds",
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_9O6xvZXZ3kYLbUbtsnj4S.jpg",
+        "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_Bejc8URjU1NSXdhabLCmD.mp4"
+    },
+    {
+        "id": 3,
+        "cap_1": "Neckbands",
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_KXwTUL2r91fh5uAHqSyIH.jpg",
+        "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_OyJHanx4QSdUN3OVGTO7C.mp4"
+    },
+    {
+        "id": 4,
+        "cap_1": "Headphones",
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_v90hMzAEa585W2YTUR9UF.jpg",
+        "video": "https://www.boat-lifestyle.com/cdn/shop/files/quinn_CpsRIdJWtpXyFN3enwbXd.mp4"
+    }
+]

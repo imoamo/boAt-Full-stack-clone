@@ -1,0 +1,34 @@
+@font-face {
+    font-family: myFont;
+    src: url('../../fonts/bad.otf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: myFont;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.heading {
+    font-size: 2.4rem;
+    font-weight: 500;
+    width: 95%;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+.heading span {
+    border-bottom: 2.5px solid rgb(216, 51, 51);
+}
+
+.mult_div button {
+    font-weight: 400;
+    padding: 1.5rem 2rem 1.5rem 2rem;
+    background-color: #ECF0F4;
+    border-radius: 15px;
+}

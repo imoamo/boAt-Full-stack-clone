@@ -1,0 +1,62 @@
+@font-face {
+    font-family: myFont;
+    src: url('../../fonts/bad.otf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: myFont;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.heading {
+    font-size: 2.7rem;
+    font-weight: 500;
+    width: 95%;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+.heading span {
+    border-bottom: 2.5px solid rgb(216, 51, 51);
+}
+
+.main_2 {
+    width: 95%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+.box_1 {
+    background-color: #D0D9DE;
+    width: 40%;
+    height: 35vh;
+    display: flex;
+    padding-top: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.box_2 {
+    background-color: #F7F9FA;
+    width: 60%;
+    height: 35vh;
+    padding-top: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.texts {
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+    font-size: 2.4rem;
+    text-align: center;
+    color: #666666;
+    font-weight: 400;
+}
